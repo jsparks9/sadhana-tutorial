@@ -1,0 +1,48 @@
+<svg viewBox="55 60 290 270" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="colorGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="Yellow" />
+      <stop offset="10%" stop-color="Yellow" />
+      <stop offset="15%" stop-color="#FF2828" />
+      <stop offset="25%" stop-color="#FF2828" />
+      <stop offset="30%" stop-color="#ffa401" />
+      <stop offset="50%" stop-color="#ffa401" />
+      <stop offset="55%" stop-color="#fffc7c" />
+      <stop offset="80%" stop-color="#fffc7c" />
+      <stop offset="100%" stop-color="White" stop-opacity="0" />
+    </radialGradient>
+</defs>
+
+  <circle cx="200" cy="200" r="150" fill="url(#colorGradient)" />
+  <text x="200" y="196" font-size="8" text-anchor="middle" dominant-baseline="middle" fill="#333333">physical</text>
+  <text x="200" y="206" font-size="8" text-anchor="middle" dominant-baseline="middle" fill="#333333">body</text>
+  <text x="200" y="172" font-size="12" text-anchor="middle" dominant-baseline="middle" fill="#333333">Prāṇa</text>
+  <text x="200" y="148" font-size="12" text-anchor="middle" dominant-baseline="middle" fill="#333333">Manomaya kosha</text>
+  <text x="200" y="104" font-size="12" text-anchor="middle" dominant-baseline="middle" fill="blue">Vijñānamaya kosha</text>
+  <text x="200" y="60" font-size="14" text-anchor="middle" dominant-baseline="middle" fill="blue" word-spacing="9">Sat Chit Ānanda</text>
+
+  <line x1="291.58" y1="253.97" x2="300" y2="300" style="stroke:#333333;stroke-width:1" />
+  <line x1="267.85" y1="281.83" x2="300" y2="300" style="stroke:#333333;stroke-width:1" />
+  <line x1="236.06" y1="300" x2="300" y2="300" style="stroke:#333333;stroke-width:1" />
+  
+    <text x="270" y="120" font-size="16" text-anchor="middle" dominant-baseline="middle">🙏</text>
+      <text x="130" y="120" font-size="16" text-anchor="middle" dominant-baseline="middle">📖</text>
+      <text x="107.01" y="148.49" font-size="16" text-anchor="middle" dominant-baseline="middle">🍽️</text>
+      <text x="95.05" y="183.09" font-size="16" text-anchor="middle" dominant-baseline="middle">☕</text>
+      <text x="95.54" y="219.7" font-size="16" text-anchor="middle" dominant-baseline="middle">🏆</text>
+      <text x="108.42" y="253.97" font-size="16" text-anchor="middle" dominant-baseline="middle">🎨</text>
+      <text x="132.15" y="281.83" font-size="16" text-anchor="middle" dominant-baseline="middle">🏡</text>
+      <text x="163.94" y="300" font-size="16" text-anchor="middle" dominant-baseline="middle">💄</text>
+      <text x="200" y="306.3" font-size="16" text-anchor="middle" dominant-baseline="middle">❤️</text>
+      <text x="236.06" y="300" font-size="16" text-anchor="middle" dominant-baseline="middle">😃</text>
+      <text x="267.85" y="281.83" font-size="16" text-anchor="middle" dominant-baseline="middle">☹️</text>
+      <text x="291.58" y="253.97" font-size="16" text-anchor="middle" dominant-baseline="middle">🤑</text>
+      <text x="304.46" y="219.7" font-size="16" text-anchor="middle" dominant-baseline="middle">♀️</text>
+      <text x="304.95" y="183.09" font-size="16" text-anchor="middle" dominant-baseline="middle">💲</text>
+      <text x="292.99" y="148.49" font-size="16" text-anchor="middle" dominant-baseline="middle">♂️</text>
+  <!-- 🙏📖🍽️☕🏆🎨🏡💄❤️😃☹️🤑♀️💲♂️ -->
+  <circle cx="300" cy="300" r="2" fill="#333333"/>
+  <text x="280" y="315" font-size="16" fill="#333333" >sanskar</text>
+  <text x="275" y="330" font-size="16" fill="#333333" >/ vāsanā</text>
+
+</svg>

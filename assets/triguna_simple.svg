@@ -1,0 +1,58 @@
+<svg viewBox="20 20 265 265" width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Quadrants -->
+  <rect x="50" y="50" width="100" height="100" fill="#acadae"/>
+  <rect x="150" y="50" width="100" height="100" fill="#fb7c7c"/>
+  <rect x="50" y="150" width="100" height="100" fill="#fb7c7c"/>
+  <rect x="150" y="150" width="100" height="100" fill="#ffff99"/>
+
+  <!-- Arousal and valence axes -->
+  <line x1="150" y1="50" x2="150" y2="250" stroke="black" stroke-width="1"/>
+  <line x1="50" y1="150" x2="250" y2="150" stroke="black" stroke-width="1"/>
+
+  <!-- Outer border -->
+  <rect x="50" y="50" width="200" height="200" fill="none" stroke="#333333" stroke-width="2"/>
+  
+  <!-- Axis labels -->
+  <text x="150" y="40" text-anchor="middle" font-size="14" fill="#333333">Active/Alert</text>
+  <text x="150" y="270" text-anchor="middle" font-size="14" fill="#333333">Passive/Calm</text>
+  <text x="40" y="155" text-anchor="middle" font-size="14" transform="rotate(-90 40,155)" fill="#333333">Negative Valence</text>
+  <text x="260" y="155" text-anchor="middle" font-size="14" transform="rotate(90 260,155)" fill="#333333">Positive Valence</text>
+
+    <text x="250" y="270" text-anchor="middle" font-size="14" fill="blue">Sāttvika</text>
+      <text x="55" y="270" text-anchor="middle" font-size="14" fill="#ff1e1e">Duḥkha</text>
+    <text x="250" y="40" text-anchor="middle" font-size="14" fill="#ff1e1e">Tṛṣṇā</text>
+      <text x="55" y="40" text-anchor="middle" font-size="14" fill="#333333">Tāmasika</text>
+
+  <!-- Top-left: High Arousal, Negative Valence -->
+  <text x="100" y="65" text-anchor="middle" font-size="10">Angry</text>
+  <text x="100" y="80" text-anchor="middle" font-size="10">Fear</text>
+  <text x="100" y="95" text-anchor="middle" font-size="10">Frustrated</text>
+  <text x="100" y="110" text-anchor="middle" font-size="10">Hostile</text>
+  <text x="100" y="125" text-anchor="middle" font-size="10">Annoyed</text>
+  <text x="100" y="140" text-anchor="middle" font-size="10">Envious</text>
+
+  <!-- Top-right: High Arousal, Positive Valence -->
+  <text x="200" y="70" text-anchor="middle" font-size="10">Excited</text>
+  <text x="200" y="85" text-anchor="middle" font-size="10">Happy</text>
+  <text x="200" y="100" text-anchor="middle" font-size="10">Ambitious</text>
+  <text x="200" y="115" text-anchor="middle" font-size="10">Elated</text>
+  <text x="200" y="130" text-anchor="middle" font-size="10">Conceited</text>
+
+  <!-- Bottom-left: Low Arousal, Negative Valence -->
+  <text x="100" y="165" text-anchor="middle" font-size="10">Insecurity</text>
+  <text x="100" y="180" text-anchor="middle" font-size="10">Sad</text>
+  <text x="100" y="195" text-anchor="middle" font-size="10">Miserable</text>
+  <text x="100" y="210" text-anchor="middle" font-size="10">Bored</text>
+  <text x="100" y="225" text-anchor="middle" font-size="10">Gloomy</text>
+  <text x="100" y="240" text-anchor="middle" font-size="10">Depressed</text>
+
+  <!-- Bottom-right: Low Arousal, Positive Valence -->
+  <text x="200" y="165" text-anchor="middle" font-size="10" fill="blue">Calm</text>
+  <text x="200" y="180" text-anchor="middle" font-size="10" fill="blue">Content</text>
+  <text x="200" y="195" text-anchor="middle" font-size="10" fill="blue">Peaceful</text>
+  <text x="200" y="210" text-anchor="middle" font-size="10" fill="blue">Friendly</text>
+  <text x="200" y="225" text-anchor="middle" font-size="10" fill="blue">Empathetic</text>
+  <text x="200" y="240" text-anchor="middle" font-size="10" fill="blue">Contemplative</text>
+ 
+</svg>
